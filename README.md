@@ -14,7 +14,7 @@ Credit: Lorenzo Rosa.
 
 Source: CSV dataset from Lorenzo Rosa’s SQL analytics project.
 
-Table: `data_01_sales.User_event`
+Table: `user_events.csv`
 
 Columns:
 - user_id
